@@ -14,5 +14,7 @@ Current Tests
 
 
 Possible Ideas
+
 A test to take a Harry Potter which house are you quiz and guarrentee it picks a house randomly chosen at the start of the test
+
 Redo some of the Petsmart_Solo_Project tests in java selenium
